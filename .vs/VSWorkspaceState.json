@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aspnet-core-3-registration-login-api-master",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\.config",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Controllers",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Entities",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Helpers",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Migrations",
+    "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Migrations\\SqliteMigrations"
+  ],
+  "SelectedNode": "\\aspnet-core-3-registration-login-api-master\\aspnet-core-3-registration-login-api-master\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
